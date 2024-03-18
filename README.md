@@ -1,1 +1,2 @@
-# Myntra-sales-analysis
+# Myntra powerbi report
+The Myntra Sales Power BI Dashboard offers real-time insights into sales performance, customer behavior, and product trends. This interactive dashboard empowers stakeholders to make data-driven decisions by visualizing key sales metrics and customer segmentation. It optimizes inventory management, marketing strategies, and customer retention efforts, ultimately enhancing business performance and user engagement.
